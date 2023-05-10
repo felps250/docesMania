@@ -1,0 +1,89 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-image: url(imagens/cute-candy-seamless-pattern-sweets-desserts-isolated-pink-background_71374-1399.avif);
+  height: 100%;
+  background-position: center;
+  background-repeat:repeat-y;
+  background-size: cover;
+  color: #e4415c;
+  font-family: Candara, Helvetica, sans-serif;
+  margin: 10;
+  padding: 110px;
+  font-size: 3rem;
+}
+
+#cabecalho {
+  background-color: #e4415c;
+  color: white;
+  padding: 0px 30px 30px 30px;
+  min-width: 1px;
+  max-width: 100%;
+}
+
+h1 {
+  font-size: 5rem;
+  user-select: none;
+  margin: 0;
+  min-width: 1px;
+  max-width: 100%;
+  padding: 20px;
+}
+
+#menu {
+  background-color: #e4415c;
+  text-align: justify;
+  min-width: 1px;
+  max-width: 100%;
+}
+
+#menu a {
+  text-align: center;
+  padding: 14px;
+  color: white;
+  text-decoration: none;
+  transition: background-color 0.5s;
+  min-width: 1px;
+  max-width: 100%;
+}
+
+#menu a:hover {
+  background-color: white;
+  color: #eb4b5e;
+   min-width: 1px;
+  max-width: 100%;
+}
+
+.mainCard {
+  background-color: white;
+   min-width: 1px;
+  max-width: 100%;
+}
+
+.produto {
+  text-align: center;
+  font-size: 20px;
+  min-width: 1px;
+  max-width: 100%;
+}
+
+.produto img {
+  height: 250px;
+  border-radius: 50%;
+  border: 2px solid #ffffff;
+  margin-top: 5px;
+  min-width: 1px;
+  max-width: 100%;
+}
+
+.tituloProduto {
+  font-size: 3rem;
+  user-select: none;
+  min-width: 1px;
+  max-width: 100%;
+}
+
+
